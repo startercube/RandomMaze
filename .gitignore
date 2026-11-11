@@ -73,3 +73,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Local play log written by UsrLog.cs (PC name + device ID)
+/[Aa]ssets/[Rr]esources/user_log.json
+/[Aa]ssets/[Rr]esources/user_log.json.meta
