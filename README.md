@@ -7,6 +7,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+> 📅 **제작 시기**: 2022년 2학기 (수업 프로젝트)
+
 <p align="center">
   <img src="docs/images/gameplay.gif" alt="여우가 미로를 지나 친구들을 만나는 플레이 장면" width="560">
 </p>
