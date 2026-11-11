@@ -25,6 +25,6 @@ public class success : MonoBehaviour
     private void OnGUI()
     {
         GUI.Label(new Rect(20, Screen.height - 40, 128, 32), " Total Playtime:");
-        GUI.Label(new Rect(120, Screen.height - 40, 128, 32), timePlay.ToString("F2")+"√ ");
+        GUI.Label(new Rect(120, Screen.height - 40, 128, 32), timePlay.ToString("F2")+"Ï¥à");
     }
 }
