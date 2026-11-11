@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Unity-imported TextMesh Pro shaders: exclude from GitHub language stats
+Assets/Resources/TextMesh[[:space:]]Pro/** linguist-vendored
