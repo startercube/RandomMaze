@@ -77,3 +77,23 @@ crashlytics-build.properties
 # Local play log written by UsrLog.cs (PC name + device ID)
 /[Aa]ssets/[Rr]esources/user_log.json
 /[Aa]ssets/[Rr]esources/user_log.json.meta
+
+# Third-party asset packs (Unity Asset Store / Free3D): not redistributed in this repo
+/Assets/Footstep(Snow and Grass)/
+/Assets/Footstep(Snow and Grass).meta
+/Assets/FantasyEnvironments/
+/Assets/FantasyEnvironments.meta
+/Assets/CasualGameBGM05/
+/Assets/CasualGameBGM05.meta
+/Assets/Millenium/
+/Assets/Millenium.meta
+/Assets/Resources/Trap/
+/Assets/Resources/Trap.meta
+# Toon Fox pack files (the animator controller and New Material are project-made and stay)
+/Assets/Resources/Fox/FBXs*
+/Assets/Resources/Fox/Materials*
+/Assets/Resources/Fox/Prefabs*
+/Assets/Resources/Fox/Scenes*
+/Assets/Resources/Fox/Textures*
+/Assets/Resources/Fox/Animations/*.fbx
+/Assets/Resources/Fox/Animations/*.fbx.meta
