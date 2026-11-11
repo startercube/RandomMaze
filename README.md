@@ -73,14 +73,12 @@ flowchart LR
 - **난이도 조절**: 처음에는 3개의 맵을 모두 한 번씩 통과해야 클리어하도록 계획했지만, 전체 난이도가 높아서
   → **무작위로 나오는 맵을 3번 통과**하면 클리어하도록 바꿨습니다.
 
-## ▶️ 실행 방법
+## 🛠️ 개발 환경
 
-1. 레포지토리를 클론합니다.
-   ```bash
-   git clone https://github.com/startercube/RandomMaze.git
-   ```
-2. **Unity Hub**에서 `Add` → 클론한 폴더를 선택합니다. (에디터 버전 **2022.3.62f3** 권장)
-3. `Assets/Scenes/SampleScene.unity`를 열고 ▶ Play 버튼을 누릅니다.
+| 항목 | 버전 |
+|---|---|
+| Unity Editor | **2022.3.62f3** (2022 LTS) |
+| 언어 | C# |
 
 ## 🗂️ 프로젝트 구조
 
